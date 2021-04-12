@@ -1,0 +1,10 @@
+.hadi{
+	height: 100vh;
+	background-image: url(image 01.jpg);
+   background
+	background-position: center;
+
+	background-size: cover;
+	overflow-x: hidden;
+	position: relative:
+}
